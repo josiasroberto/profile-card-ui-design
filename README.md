@@ -8,4 +8,4 @@
 
 Layout developed by [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+![preview img](/preview.jpg)
